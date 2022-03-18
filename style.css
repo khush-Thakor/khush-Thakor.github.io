@@ -1,8 +1,14 @@
 .title{
-    font-size: 150;
+    font-size: 100;
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
     min-height: 100vh; position: relative;
+}
+.headerSpace{
+
+    height: 100vh; /* For 100% screen height */
+    width:  100vw; /* For 100% screen width */
+
 }
