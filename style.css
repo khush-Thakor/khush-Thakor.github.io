@@ -15,3 +15,14 @@
     width:  100vw;
 
 }
+.h4{
+    margin: 1%;
+}
+.centerD{
+    text-align: center;
+}
+
+#nav ul {
+    display: inline-block;
+    list-style-type: none;
+}
