@@ -1,28 +1,46 @@
-.navbar-nav li a{
-    color: white;
+.navbar-brand{
+color: black;
 }
-.title{
-    font-size: 45;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    position: relative;
+.nav-link {
+    color: aliceblue;
 }
-.headerSpace{
-
-    height: 100vh;
-    width:  100vw;
-
+.aboutSection{
+padding-left: 1%;
 }
-.h4{
-    margin: 1%;
+.profilePic{
+    border: 5px solid rgb(0, 0, 0);
+    margin-left: 1%;
 }
-.centerD{
-    text-align: center;
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%; /* Full width */
+    margin-bottom: 10%;
+  }
+  .nav{
+    padding: 2%;
+  }
+.aboutText{
+    padding-top: 1%;
+    font-size: large;
 }
-
-#nav ul {
-    display: inline-block;
-    list-style-type: none;
+.worksSection{
+    padding-left: 1%;
+}
+.workText{
+    padding-left: 1%;
+}
+.container.titleBox{
+    align-content: center;
+}
+body {
+    padding-top: 3%;
+  }
+button{
+    margin-left: 2%
+}
+.navbar-orange{
+    background-color:#1702f7;
 }
